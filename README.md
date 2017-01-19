@@ -7,19 +7,26 @@ The tick data repository is free for unlimited individual usaage and will be upd
 The following instruments are available to download.
 
 AUDCAD,AUDCHF,AUDJPY
+
 AUDNZD,CADCHF,EURAUD
+
 EURCHF,EURGBP,EURJPY 
+
 EURUSD,GBPCHF,GBPJPY 
+
 GBPNZD,GBPUSD,GBPCHF
+
 GBPJPY,GBPNZD,NZDCAD
+
 NZDCHF.NZDJPY,NZDUSD
+
 USDCAD,USDCHF,USDJPY
 
-To help with the downloading of data we have two python examples(Python 2.7 and Python 3.4).
+To help with the downloading of data we have two python examples([Python 2.7](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData27.py) and [Python 3.4](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData34.py)).
 
 Files are stored in our public directory with the following path URL
 
-https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
+tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 
 For example if we want to get the first week of 2015 for EURUSD the URL would be
 
