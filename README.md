@@ -29,3 +29,5 @@ tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 For example if we want to get the first week of 2015 for EURUSD the URL would be
 
 https://tickdata.fxcorporate.com/EURUSD/2015/1.csv.gz
+
+All timestamps are in UTC.
