@@ -21,6 +21,6 @@ If you are familiar with Python, we have two scripts that you may use for [Pytho
 
 
 Note:
-•	For personal use only
-•	Timestamps are in UTC
-•	Data points are indicative and based on the our lowest spreads available exclusively on Active Trade accounts
+!	For personal use only
+!	Timestamps are in UTC
+!	Data points are indicative and based on the our lowest spreads available exclusively on Active Trade accounts
