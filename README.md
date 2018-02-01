@@ -17,7 +17,7 @@ Week		: 1 to 53
 To give an example, the path for extracting EURUSD data for the 1st week of 2015 would be
 https://tickdata.fxcorporate.com/EURUSD/2015/1.csv.gz
 
-If you are familiar with Python, we have two scripts that you may use for Python 2.7 and Python 3.4
+If you are familiar with Python, we have two scripts that you may use for [Python 2.7](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData27.py) and [Python 3.4](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData34.py)
 
 
 Note:
