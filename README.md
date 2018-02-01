@@ -3,8 +3,8 @@ Enjoy free access to our historical Tick Data.
 
 Our repository contains Tick Data from 4 January 2015. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated every Monday.
 
-https://tickdata.fxcorporate.com/{instrument}/[#f03c15](https://placehold.it/15/f03c15/000000?text=+) {year}/{int of week of year}.csv.gz
-![#f03c15](https://placehold.it/15/f03c15/000000?text=year) `#f03c15`
+https://tickdata.fxcorporate.com/{instrument}/<span style="color:blue">some {year} text</span>/{int of week of year}.csv.gz
+
 Instrument	: AUDCAD, AUDCHF, AUDJPY, AUDNZD, CADCHF, EURAUD,
 EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY,
 GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
