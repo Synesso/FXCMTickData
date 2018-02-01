@@ -5,14 +5,15 @@ Our repository contains Tick Data from 4 January 2015. The data is compiled by t
 
 https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 
-Instrument	: AUDCAD, AUDCHF, AUDJPY, AUDNZD, CADCHF, EURAUD,
-EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY,
-GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
-USDCAD, USDCHF, USDJPY
+    Instrument	: 
+                  AUDCAD, AUDCHF, AUDJPY, AUDNZD, CADCHF, EURAUD,
+                  EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY,
+                  GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
+                  USDCAD, USDCHF, USDJPY
 
-Year		: 2015, 2016, 2017, 2018
+    Year		: 2015, 2016, 2017, 2018
 
-Week		: 1 to 53
+    Week		: 1 to 53
 
 To give an example, the path for extracting EURUSD data for the 1st week of 2015 would be
 https://tickdata.fxcorporate.com/EURUSD/2015/1.csv.gz
