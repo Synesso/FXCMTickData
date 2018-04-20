@@ -9,7 +9,8 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
                   AUDCAD, AUDCHF, AUDJPY, AUDNZD, CADCHF, EURAUD,
                   EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY,
                   GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
-                  USDCAD, USDCHF, USDJPY
+                  USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
+                  USDTRY,EURNZD
 
     Year:         2015, 2016, 2017, 2018
 
