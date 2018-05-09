@@ -25,6 +25,10 @@ If you are familiar with Python, we have two scripts that you may use for [Pytho
 
 ## Note:
 
+o	Losses can exceed deposits
+
+o	Past performance is not indicative of future results
+
 o	Timestamps are in UTC
 
 o	Data points are indicative and based on the lowest spreads available exclusively on Active Trader accounts
