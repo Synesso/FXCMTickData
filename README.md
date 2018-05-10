@@ -20,6 +20,8 @@ To give an example, the path for extracting EURUSD data for the 1st week of 2015
 
 https://tickdata.fxcorporate.com/EURUSD/2015/1.csv.gz
 
+For the instruments `AUDUSD`, `CADJPY`, `GBPCAD`, `USDTRY` and `EURNZD`, data is available from 2018, week 16 onwards.
+
 If you are familiar with Python, we have two scripts that you may use for [Python 2.7](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData27.py) and [Python 3.4](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData34.py)
 
 
